@@ -3,7 +3,7 @@
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Young-Min-Song)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssongymin@gmail.com)](mailto:ssongymin@gmail.com)
 
-[Young-min Song's Curriculum Vitae](https://drive.google.com/file/d/1-OAZS72SPOYZVBLLBcO69dwWrwEE3lsa/view?usp=sharing)
+[Young-min Song's Curriculum Vitae](https://drive.google.com/file/d/158sEuJ9PW9kAClD0NeyZVaJEuIOpolbu/view)
 
 ![Young-min Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonginCV&theme=city_lights&show_icons=true?count_private=true)
 
