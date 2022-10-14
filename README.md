@@ -7,4 +7,4 @@
 
 ![Young-min Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonginCV&theme=city_lights&show_icons=true?count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonginCV&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonginCV&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
